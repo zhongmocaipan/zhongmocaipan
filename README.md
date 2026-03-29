@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Zhongmocaipan
+# 👋 Hi, There
 
-🎓 Student | 🤖 AI / Machine Learning | 💻 Python Developer
+🎓 Student | 🤖 AI / Machine Learning | 💻 C++/Python Developer
 
 ---
 
 ## 🚀 About Me
 
 * 🔬 Interested in Machine Learning / LLM / Explainability
-* 🧠 Doing experiments with MindSpore, PyTorch
-* 📊 Working on Feature Selection & CoT reasoning
+* 🧠 Doing experiments with TensorFlow, PyTorch
+* 📊 Working on Feature Selection & CoT reasoning & Robotics
 * 🛠️ Building AI systems (speech, multimodal, etc.)
 
 ---
@@ -36,7 +36,6 @@
 ## 📫 Contact
 
 * 📧 Email: [fangyi@mail.nankai.edu.cn](fangyi@mail.nankai.edu.cn)
-* 🌐 Blog / Website: (optional)
 
 ---
 
